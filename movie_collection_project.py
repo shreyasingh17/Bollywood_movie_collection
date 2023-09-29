@@ -1,8 +1,8 @@
 class movies:
     
     def __init__(self):
-        self.movies = [{'name': 'sherlock', 'year': '2009', 'genre': 'thriller'},
-                       {'name': 'titanic', 'year': '1997', 'genre': 'drama'},
+        self.movies = [{'name': 'Pathaan', 'year': '2023', 'genre': 'Action-thriller'},
+                       {'name': 'Brahmastra', 'year': '1997', 'genre': 'drama'},
                        {'name': 'andhadhun', 'year': '2018', 'genre': 'crime'}]
     
     def find_movie(self):
